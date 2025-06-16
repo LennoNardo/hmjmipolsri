@@ -1,0 +1,390 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@200&family=Moon+Dance&family=Poppins&family=Raleway&family=Roboto:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap");
+
+body {
+  background-color: #eee;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Navbar */
+
+.navbar {
+  background-color: #eeeeee4f;
+  position: relative;
+  z-index: 10;
+}
+@media (max-width: 1199px) {
+  .navbar {
+    max-width: 1170px;
+  }
+}
+@media (max-width: 768px) {
+  .home-main .main-text .mi {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+nav .navbar-nav i {
+  margin-right: 10px;
+  font-size: 1.5rem;
+  color: #000;
+}
+nav .navbar-nav a {
+  color: #000;
+}
+
+nav .navbar-nav a:hover,
+nav .navbar-nav i:hover {
+  color: #fb6f92;
+}
+nav .navbar-nav a:active,
+nav .navbar-nav i:active {
+  color: #fb6f92;
+}
+
+/* Main Page of Home page*/
+
+.home-main {
+  position: relative;
+  margin-top: 10rem;
+  height: 50vh;
+  color: #000;
+  font-weight: 900;
+  padding: 0rem 5rem;
+  font-family: "Varela Round", sans-serif;
+}
+.atas {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.mi {
+  color: #fb6f92;
+  font-family: "Courgette", cursive;
+  text-align: end;
+}
+
+.home-main .main-text p {
+  font-size: 60px;
+  display: block;
+}
+.home-main .main-text {
+  margin-top: 2rem;
+}
+
+.home-main .main-text a,
+footer .button {
+  position: relative;
+  font-size: 13px;
+  width: 30%;
+  text-decoration: none;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2.5rem;
+  border-radius: 0.5rem;
+  transition: 200ms ease-in-out;
+  border: 2px solid #fb6f92;
+  color: #fb6f92;
+}
+.home-main .main-text a:hover,
+footer .button:hover {
+  background-color: #fb6f92;
+  color: #eee;
+}
+footer .links a {
+  text-decoration: none;
+  color: #000;
+  margin: 5px;
+}
+
+footer .links a:hover {
+  color: #fb6f92;
+  margin: 5px;
+}
+
+/* CSS Untuk Page Home */
+
+.profile img {
+  width: 80%;
+  margin: auto;
+}
+.profile2 img {
+  width: 10rem;
+  height: 10rem;
+  margin: auto;
+}
+.profile,
+.profile2 {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
+    rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+.justify {
+  text-align: justify;
+}
+.profile hr,
+.profile2 hr {
+  margin-top: -15px;
+}
+.home-line {
+  width: 30%;
+  margin: auto;
+  height: 3px;
+  background-color: #fb6f92;
+  border: none;
+}
+
+.home-border {
+  border: 1px solid #fb6f92;
+  border-radius: 20px;
+}
+.caro-img {
+  /*border: 2px solid #fb6f92;*/
+  border-radius: 15px;
+}
+.box {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
+    rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+
+/* CSS Untuk page Divisi */
+
+.tentang hr {
+  border: 3px solid #fb6f92;
+  width: 60%;
+  opacity: 1;
+  margin: auto;
+  transition: 300ms ease-in-out;
+}
+.subdiv {
+  width: 80%;
+  margin: auto;
+  background-color: #fb6f92;
+  border-radius: 15px;
+  transition: 300ms ease-in-out;
+}
+.subdiv button {
+  width: 50%;
+  border: none;
+  padding: 1rem 2rem;
+  margin: auto;
+}
+
+.subdiv .center {
+  width: 65%;
+  margin: auto;
+  padding-left: 2rem;
+}
+
+.active {
+  background-color: #fb6f92;
+  border: none;
+  color: #eee;
+}
+.banner {
+  transition: 200ms ease-in-out;
+  border: 2px solid #fb6f92;
+  color: #fb6f92;
+}
+.active a {
+  text-align: center;
+  color: #eee;
+}
+.active:hover {
+  color: #eee;
+}
+
+.banner:hover {
+  background-color: #fb6f92;
+  color: #eee;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* PTKP */
+
+.banner-text {
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  border-radius: 15px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.banner-text h4 {
+  font-size: 24px;
+}
+
+.content-ptkp img {
+  width: 80%;
+  margin: auto;
+}
+.content-ptkp p {
+  text-align: justify;
+}
+.content-ptkp hr {
+  margin-top: -10px;
+  width: 20%;
+  margin: auto;
+  background-color: #fb6f92;
+  border: none;
+  border-top: 3px solid #fb6f92;
+}
+
+.subdiv-ptkp img {
+  width: 80%;
+  margin: auto;
+}
+.subdiv-ptkp {
+  background-color: #eee;
+  border-radius: 20px;
+  color: #eee;
+}
+
+.subdiv-ptkp p {
+  color: #fb6f92;
+}
+
+.struktural img {
+  width: 30%;
+  border-radius: 20px;
+  margin: auto;
+}
+
+.missing {
+  display: none;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .home-main {
+    height: 100%;
+    display: block;
+    margin-top: 4rem;
+  }
+  .home-main .main-text {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .home-main .main-text p {
+    font-size: 20px;
+  }
+  .home-main .main-text a {
+    width: 70%;
+    margin: auto;
+    font-size: 10px;
+    padding: 1rem 0.5rem;
+  }
+  .home-main .main-image {
+    display: none;
+    /* justify-content: center; */
+    /* margin-top: -6rem; */
+  }
+  .home-main .main-image img {
+    width: 350px;
+    justify-content: center;
+  }
+  .img {
+    width: 350px;
+    margin: auto;
+  }
+  footer .version {
+    left: 75%;
+  }
+  footer img {
+    width: 50px;
+  }
+  footer p,
+  footer a {
+    font-size: 13px;
+  }
+
+  /* PTKP Mobile */
+  .banner-text {
+    width: 90%;
+  }
+  .subdiv-ptkp h4 {
+    font-size: 18px;
+  }
+  .banner-text h4,
+  .content-ptkp h3 {
+    font-size: 18px;
+  }
+  .content-ptkp p {
+    font-size: 15px;
+  }
+  /* .subdiv-ptkp .sub-para {
+        font-size: 12px;
+    } */
+  .content-ptkp img {
+    display: flex;
+  }
+  .struktural img,
+  .struktur img {
+    width: 100%;
+    border-radius: 20px;
+    margin: auto;
+  }
+  .struktural p {
+    font-size: 12px;
+  }
+  .struktural h4 {
+    font-size: 15px;
+  }
+
+  /* Mobile Home Pages */
+  .profile img {
+    display: flex;
+    width: 65%;
+  }
+  .profile2 img {
+    display: flex;
+    width: 8rem;
+    height: 8rem;
+  }
+  .profile2 {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .profile .justify,
+  .profile2 .justify {
+    font-size: 12px;
+  }
+  .home-border {
+    border: none;
+  }
+  .caro-img p {
+    font-size: 13px;
+  }
+  .caro-img {
+    width: 100%;
+    margin: auto;
+  }
+  .image .buffer {
+    padding-bottom: 19px;
+  }
+}
+
+.proker {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.centered {
+  position: absolute;
+  bottom: -15px;
+  font-size: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #000000;
+  font-weight: 400px;
+}
