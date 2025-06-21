@@ -60,113 +60,113 @@
         <h4 class="text-center text-dark banner-text p-2 w-50 mb-5 mt-5 ">STRUKTURAL DIVISI KESMA</h4>
         <div class="row justify-content-center" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/kesma/dipo.png" class="image-fluid" alt="">
-                <p class="mt-4">Athala Danadiva</p>
+                <img src="sources/kesma/M.RIZQON YASIR.png" class="image-fluid" alt="">
+                <p class="mt-4">Muhamad Rizqon Yasir</p>
                 <p style="color: #fb6f92;">Koordinator</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/kesma/tupek.png" class="image-fluid" alt="">
-                <p class="mt-4">M. Taufiqurrahman</p>
+                <img src="sources/kesma/ZALSABILA HERAWATY.png" class="image-fluid" alt="">
+                <p class="mt-4">Zalsabila Herawaty</p>
                 <p style="color: #fb6f92;">Wakil Koordinator</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/kesma/nei.png" class="image-fluid" alt="">
-                <p class="mt-4">Nisyah Shabina Putri</p>
+                <img src="sources/kesma/AISYAH ARIANTI.png" class="image-fluid" alt="">
+                <p class="mt-4">Aisyah Arianti</p>
                 <p style="color: #fb6f92;">Sekretaris</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/kesma/miftah.png" class="image-fluid" alt="">
-                <p class="mt-4">Miftahulya Salma</p>
+                <img src="sources/kesma/AZZAHRA DINDA FEBRIANTI.png" class="image-fluid" alt="">
+                <p class="mt-4">Azzahra Dinda Febrianti</p>
                 <p style="color: #fb6f92;">Bendahara</p>
             </div>
 
         </div>
         <div class="row justify-content-evenly mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/kesma/nursyamsi.png" class="image-fluid" alt="">
-                <p class="mt-4">Nur Syamsi</p>
+                <img src="sources/kesma/M.SUTAN ARTHA.png" class="image-fluid" alt="">
+                <p class="mt-4">Muhammad Sutan Artha</p>
                 <p style="color: #fb6f92;">Koordinator Agama</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/kesma/ikek.png" class="image-fluid" alt="">
-                <p class="mt-4">Yurike Naia Putri</p>
+                <img src="sources/kesma/ADHYAKSA MICKO SATRIA.png" class="image-fluid" alt="">
+                <p class="mt-4">Adhyaksa Micko Satria</p>
                 <p style="color: #fb6f92;">Koordinator Sosial</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/kesma/aisa.png" class="image-fluid" alt="">
-                <p class="mt-4">Aisyah Arianti</p>
-                <p style="color: #fb6f92;">Anggota Agama</p>
-            </div>
-            <div class="col-3 text-center">
-                <img src="sources/kesma/anisaa.png" class="image-fluid" alt="">
+                <img src="sources/kesma/ANNISA NURHIDAYAH.png" class="image-fluid" alt="">
                 <p class="mt-4">Annisa Nurhidayah</p>
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/miko.png" class="image-fluid" alt="">
-                <p class="mt-4">Adhiyaksa Micko Satria</p>
+                <img src="sources/kesma/anisaa.png" class="image-fluid" alt="">
+                <p class="mt-4">Muhammad Ghani Yusha</p>
+                <p style="color: #fb6f92;">Anggota Agama</p>
+            </div>
+            <div class="col-3 text-center">
+                <img src="sources/kesma/DIMAS FAJAR SATRIO.png" class="image-fluid" alt="">
+                <p class="mt-4">Dimas Fajar Satrio</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/azzhara.png" class="image-fluid" alt="">
-                <p class="mt-4">Azzahra Dinda Febrianti</p>
+                <img src="sources/kesma/jeje.png" class="image-fluid" alt="">
+                <p class="mt-4">Jessica Imelda Septriani</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
                 <img src="sources/kesma/riqzon.png" class="image-fluid" alt="">
-                <p class="mt-4">Muhammad Rizqon Yasir</p>
+                <p class="mt-4">Muhammad Rizky Pratama</p>
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/kesma/sutan.png" class="image-fluid" alt="">
-                <p class="mt-4">Muhammad Sutan Artha</p>
+                <p class="mt-4">Nabila Huwaida</p>
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/difasa.png" class="image-fluid" alt="">
-                <p class="mt-4">Dimas Fajar Satrio</p>
+                <img src="sources/kesma/M.RIFKY.png" class="image-fluid" alt="">
+                <p class="mt-4">Muhammad Rifki Surya Pratama</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/jeje.png" class="image-fluid" alt="">
-                <p class="mt-4">Jessica Imelda</p>
+                <img src="sources/kesma/TARISHA BAIS HUSNA.png" class="image-fluid" alt="">
+                <p class="mt-4">Tarisha Bais Husna</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
                 <img src="sources/kesma/widyaa.png" class="image-fluid" alt="">
-                <p class="mt-4">Widia Ramadhanni</p>
+                <p class="mt-4">Muhammad Rizky Wijaya</p>
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/kesma/zalsabila.png" class="image-fluid" alt="">
-                <p class="mt-4">Zalsabila Herawati</p>
-                <p style="color: #fb6f92;">Anggota Agama</p>
+                <p class="mt-4">Adinda Rahmalia</p>
+                <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/ekik.png" class="image-fluid" alt="">
-                <p class="mt-4">Muhammad Rifky Surya Pratama</p>
+                <img src="sources/kesma/.png" class="image-fluid" alt="">
+                <p class="mt-4">Amira Luthfia Alkamila</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/kesma/dhika.png" class="image-fluid" alt="">
-                <p class="mt-4">Surya Ananda Mahadhika</p>
+                <p class="mt-4">Frans Ahmad Zharif</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
                 <img src="sources/kesma/risha.png" class="image-fluid" alt="">
-                <p class="mt-4">Tarisha Bais Husna</p>
+                <p class="mt-4">Rasya Syakir</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
         </div>

@@ -5,7 +5,7 @@
                 <div class="d-flex">
                     <img class="image-footer" src="sources/logopolsri.png" alt="" width="50">
                     <img class="image-footer" src="sources/logomi.png" alt="" width="50">
-                    <img class="image-footer" src="sources/logokabinetcaksabhigana.png" alt="" width="50">
+                    <img class="image-footer" src="sources/logokabinetkharsadikara.png" alt="" width="38">
                 </div>
                 <div class="">
                     <p class="fs-5 text-dark mt-2 fw-bold">HMJ Manajemen Informatika <br> Politeknik Negeri Sriwijaya</p>
@@ -38,7 +38,7 @@
         </div>
         <p class="mt-4 opacity-25 text-center">Build & Maintenance by PTKP HMJMI </p>
     </div>
-    <p class="opacity-25 version">version 0.2.0</p>
+    <p class="opacity-25 version">version 0.3.0</p>
 </footer>
 
 

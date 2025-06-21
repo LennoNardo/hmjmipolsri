@@ -60,124 +60,107 @@
         <h4 class="text-center text-dark banner-text p-2 w-50 mb-5 mt-5 ">STRUKTURAL DIVISI BISTRA</h4>
         <div class="row justify-content-center" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/bistra/akbar.png" class="image-fluid" alt="">
-                <p class="mt-4">Akbar Faturrahman</p>
+                <img src="sources/bistra/RAECHAN ALBANI.png" class="image-fluid" alt="">
+                <p class="mt-4">Mochamad Raechan Albani</p>
                 <p style="color: #fb6f92;">Koordinator</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/bistra/dafarizky.png" class="image-fluid" alt="">
-                <p class="mt-4">Muhammad Dafa Rizky</p>
+                <img src="sources/bistra/RAHMI FAULIZA HANAPSARI.png" class="image-fluid" alt="">
+                <p class="mt-4">Rahmi Fauliza Hanapsari</p>
                 <p style="color: #fb6f92;">Wakil Koordinator</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/bistra/khlalisah.png" class="image-fluid" alt="">
-                <p class="mt-4">Khalisah Berliana Nabila</p>
+                <img src="sources/bistra/ADELLIA NURAIN.png" class="image-fluid" alt="">
+                <p class="mt-4">Adellia Nurain</p>
                 <p style="color: #fb6f92;">Sekretaris</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/bistra/risa.png" class="image-fluid" alt="">
-                <p class="mt-4">Harnita Risa</p>
+                <img src="sources/bistra/LIANA MELISA.png" class="image-fluid" alt="">
+                <p class="mt-4">Liana Melisa</p>
                 <p style="color: #fb6f92;">Bendahara</p>
             </div>
 
         </div>
         <div class="row justify-content-evenly mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/bistra/dimass.png" class="image-fluid" alt="">
-                <p class="mt-4">Dimas Juliansyah</p>
+                <img src="sources/bistra/DANI MAULANA.png" class="image-fluid" alt="">
+                <p class="mt-4">Dani Maulana</p>
                 <p style="color: #fb6f92;">Koordinator Bisnis</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/bistra/nadaia.png" class="image-fluid" alt="">
-                <p class="mt-4">Nadia Amanda</p>
+                <img src="sources/bistra/NATASHA BELLA SHAVIRA.png" class="image-fluid" alt="">
+                <p class="mt-4">Natasya Bella Shavira</p>
                 <p style="color: #fb6f92;">Koordinator Kemitraan</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/bistra/adel.png" class="image-fluid" alt="">
-                <p class="mt-4">Adellia Nurain</p>
+                <img src="sources/bistra/HENNY DARADHITA SALSABILLA.png" class="image-fluid" alt="">
+                <p class="mt-4">Henny Daraditha Salsabilla</p>
                 <p style="color: #fb6f92;">Anggota Bisnis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/amara.png" class="image-fluid" alt="">
-                <p class="mt-4">Amara</p>
-                <p style="color: #fb6f92;">Anggota Kemitraan</p>
+                <img src="sources/bistra/TRI AJI ALHUDA.png" class="image-fluid" alt="">
+                <p class="mt-4">Tri Aji Alhuda</p>
+                <p style="color: #fb6f92;">Anggota Bisnis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/aldi.png" class="image-fluid" alt="">
+                <img src="sources/bistra/ALDI KURNIAWAN.png" class="image-fluid" alt="">
                 <p class="mt-4">Aldi Kurniawan</p>
                 <p style="color: #fb6f92;">Anggota Kemitraan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/dani.png" class="image-fluid" alt="">
-                <p class="mt-4">Dani Maulana</p>
-                <p style="color: #fb6f92;">Anggota Kemitraan</p>
-            </div>
-        </div>
-        <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
-            <div class="col-3 text-center">
-                <img src="sources/bistra/lianaa.png" class="image-fluid" alt="">
-                <p class="mt-4">Liana Melisa</p>
-                <p style="color: #fb6f92;">Anggota Bisnis</p>
-            </div>
-            <div class="col-3 text-center">
-                <img src="sources/bistra/dava.png" class="image-fluid" alt="">
-                <p class="mt-4">M. Dava Prayoga</p>
-                <p style="color: #fb6f92;">Anggota Bisnis</p>
-            </div>
-            <div class="col-3 text-center">
-                <img src="sources/bistra/anonym.png" class="image-fluid" alt="">
-                <p class="mt-4">Henny Daraditha Salsabila</p>
-                <p style="color: #fb6f92;">Anggota Kemitraan</p>
-            </div>
-            <div class="col-3 text-center">
-                <img src="sources/bistra/aditt.png" class="image-fluid" alt="">
-                <p class="mt-4">Muhammad Aditya</p>
-                <p style="color: #fb6f92;">Anggota Kemitraan</p>
-            </div>
-        </div>
-        <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
-            <div class="col-3 text-center">
-                <img src="sources/bistra/banii.png" class="image-fluid" alt="">
-                <p class="mt-4">Mochammad Raechan Albani</p>
-                <p style="color: #fb6f92;">Anggota Bisnis</p>
-            </div>
-            <div class="col-3 text-center">
-                <img src="sources/bistra/natasya.png" class="image-fluid" alt="">
-                <p class="mt-4">Natasya Bella Shavira</p>
-                <p style="color: #fb6f92;">Anggota Bisnis</p>
-            </div>
-            <div class="col-3 text-center">
-                <img src="sources/bistra/fikrii.png" class="image-fluid" alt="">
-                <p class="mt-4">Muhammad Fikri Yudithia</p>
-                <p style="color: #fb6f92;">Anggota Kemitraan</p>
-            </div>
-            <div class="col-3 text-center">
-                <img src="sources/bistra/rahmi.png" class="image-fluid" alt="">
-                <p class="mt-4">Rahmi Fauliza Hanaspari</p>
-                <p style="color: #fb6f92;">Anggota Kemitraan</p>
-            </div>
-        </div>
-        <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
-            <div class="col-3 text-center">
-                <img src="sources/bistra/nisaa.png" class="image-fluid" alt="">
-                <p class="mt-4">Nisa'auliatul Hasanah</p>
-                <p style="color: #fb6f92;">Anggota Bisnis</p>   
-            </div>
-            <div class="col-3 text-center">
-                <img src="sources/bistra/sarla.png" class="image-fluid" alt="">
+                <img src="sources/bistra/SHARLA IMANDA.png" class="image-fluid" alt="">
                 <p class="mt-4">Sharla Imanda</p>
-                <p style="color: #fb6f92;">Anggota Kemitraan</p>   
+                <p style="color: #fb6f92;">Anggota Kemitraan</p>
+            </div>
+        </div>
+        <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
+            <div class="col-3 text-center">
+                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <p class="mt-4">Munzillin Zahri Aji</p>
+                <p style="color: #fb6f92;">Anggota Bisnis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/aji.png" class="image-fluid" alt="">
-                <p class="mt-4">Tri Aji Alhuda</p>
-                <p style="color: #fb6f92;">Anggota Kemitraan</p>   
+                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <p class="mt-4">Muhammad Azrin</p>
+                <p style="color: #fb6f92;">Anggota Bisnis</p>
+            </div>
+            <div class="col-3 text-center">
+                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <p class="mt-4">Afifah Saharani</p>
+                <p style="color: #fb6f92;">Anggota Kemitraan</p>
+            </div>
+            <div class="col-3 text-center">
+                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <p class="mt-4">Fenita Harlina</p>
+                <p style="color: #fb6f92;">Anggota Kemitraan</p>
+            </div>
+        </div>
+        <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
+            <div class="col-3 text-center">
+                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <p class="mt-4">Alfaris Abiyyu Ramadhan</p>
+                <p style="color: #fb6f92;">Anggota Bisnis</p>
+            </div>
+            <div class="col-3 text-center">
+                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <p class="mt-4">Fadhlan Lordiansyah</p>
+                <p style="color: #fb6f92;">Anggota Bisnis</p>
+            </div>
+            <div class="col-3 text-center">
+                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <p class="mt-4">Ayu Sari Romadhon</p>
+                <p style="color: #fb6f92;">Anggota Kemitraan</p>
+            </div>
+            <div class="col-3 text-center">
+                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <p class="mt-4">Nabila Salsabila</p>
+                <p style="color: #fb6f92;">Anggota Kemitraan</p>
             </div>
         </div>
     </div>

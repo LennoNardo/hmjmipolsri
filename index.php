@@ -40,12 +40,12 @@
     <div class="px-4"  data-aos="fade-up" data-aos-delay="150" data-aos-duration="700">
         <div class="row justify-content-center home-border profile mt-5">
             <div class="col-10 col-sm-5 image m-auto">
-                <img src="sources/caksabhigana.png" style="padding: 20px; display: flex; justify-content: center; align-items: center;" alt="">
+                <img src="sources/logokabinetkharsadikara.png" style="padding: 20px; display: flex; justify-content: center; align-items: center;" alt="">
             </div>
             <div class="col-10 col-sm-5 m-auto">
-                <p class="text-center fw-bold fs-3 mt-5">&lt; Caksabhigana /&gt;</p>
+                <p class="text-center fw-bold fs-3 mt-5">&lt; KARSADHIKARA /&gt;</p>
                 <hr class="home-line">
-                <p class="justify mt-5 pb-5">&nbsp Caksabhigana adalah Pasukan yang memiliki keinginan kuat untuk mencapai suatu tujuan tertentu yang berkelanjuta. Dengan kata lain, Caksabhigana memiliki arti bahwa HMJ MI dapat diibaratkan sebagai poros penggerak yang dapat membangun kehidupan organisasi selaras dan berkelanjutan dengan sikap profesional, penuh harapan, serta rasa kekeluargaan satu sama lain.</p>
+                <p class="justify mt-5 pb-5">&nbsp Kabinet Karsadhikara mencerminkan semangat kebangkitan, adaptasi, dan inovasi dalam bidang teknologi dan manajemen organisasi. Dengan demikian, Karsadhikara mengartikan bahwa Himpunan Mahasiswa Manajemen Informatika (HMJ MI) adalah entitas yang selalu berkembang, adaptif, dan siap menghadapi tantangan zaman.</p>
             </div>
         </div>
     </div>
@@ -54,7 +54,7 @@
             <div class="col-10 col-sm-5 m-auto" >
                 <p class="text-center fw-bold fs-3 mt-5">&lt; Profile /&gt;</p>
                 <hr class="home-line">
-                <p class="justify mt-5 pb-5">&nbsp Salah satu dari 20 organisasi mahasiswa yang ada di KM-POLSRI dengan jumlah Pengurus aktif sebanyak 102 mahasiswa/i Manajemen Informatika. Selain itu HMJ MI dibagi menjadi 5 divisi yaitu PTKP, Humas, PSDM, Kesma dan Bistra</p>
+                <p class="justify mt-5 pb-5">&nbsp Salah satu dari 20 organisasi mahasiswa yang ada di KM-POLSRI dengan jumlah Pengurus aktif sebanyak 106 mahasiswa/i Manajemen Informatika. Selain itu HMJ MI dibagi menjadi 5 divisi yaitu PTKP, Humas, PSDM, Kesma dan Bistra</p>
             </div>
             <div class="col-10 col-sm-5 image m-auto">
                 <img src="sources/Profile.png" alt="">
@@ -103,43 +103,43 @@
                         <div class="carousel-inner m-auto w-100">
                             <div class="carousel-item active bg-transparent px-2 text-center">
                                 <div class="p-2 caro-img">
-                                    <img src="sources/bph/fakri.png" class="rounded" alt="...">
-                                    <p class="text-dark mt-2">Fakhri Aryva</p>
+                                    <img src="sources/bph/M. FARHAN PRATAMA.png" class="rounded" alt="...">
+                                    <p class="text-dark mt-2">Muhammad Farhan Pratama</p>
                                     <p class="text-center" style="color: #fb6f92;">Ketua Himpunan</p>
                                 </div>
                             </div>
                             <div class="carousel-item bg-transparent px-2 text-center">
                                 <div class="p-2 caro-img">
-                                    <img src="sources/bph/dhavaris.png" class="rounded" alt="...">
-                                    <p class="text-dark mt-2">M. Dhavaris Octa Ramadhan</p>
+                                    <img src="sources/bph/M.DAVA Prayoga.png" class="rounded" alt="...">
+                                    <p class="text-dark mt-2">Muhammad Dava Prayoga</p>
                                     <p class="text-center" style="color: #fb6f92;">Wakil Ketua Himpunan</p>
                                 </div>
                             </div>
                             <div class="carousel-item bg-transparent px-2 text-center">
                                 <div class="p-2 caro-img">
-                                    <img src="sources/bph/nashwa.png" class="rounded" alt="...">
-                                    <p class="text-dark mt-2">Nashwa Kamila</p>
+                                    <img src="sources/bph/SITI NABILA ZHAFIRAH.png" class="rounded" alt="...">
+                                    <p class="text-dark mt-2">Siti Nabilla Zhafirah</p>
                                     <p class="text-center" style="color: #fb6f92;">Sekretaris Umum</p>
                                 </div>
                             </div>
                             <div class="carousel-item bg-transparent px-2 text-center">
                                 <div class="p-2 caro-img">
                                     <img src="sources/bph/singnap.png" class="rounded" alt="...">
-                                    <p class="text-dark mt-2">Siti Nabila Zhafirah</p>
+                                    <p class="text-dark mt-2">Eka Rahayu Putri</p>
                                     <p class="text-center " style="color: #fb6f92;">Wakil Sekretaris Umum</p>
                                 </div>
                             </div> 
                             <div class="carousel-item bg-transparent px-2 text-center">
                                 <div class="p-2 caro-img">
-                                    <img src="sources/bph/della.png" class="rounded" alt="...">
-                                    <p class="text-dark mt-2">Della Aprilia</p>
+                                    <img src="sources/bph/MUTIA MAYLAFAYZA INAYAH.png" class="rounded" alt="...">
+                                    <p class="text-dark mt-2">Muthia Maylafayza Inayah</p>
                                     <p class="text-center" style="color: #fb6f92;">Bendahara Umum</p>
                                 </div>
                             </div>
                             <div class="carousel-item bg-transparent px-2 text-center">
                                 <div class="p-2 caro-img">
-                                    <img src="sources/bph/mutek.png" class="rounded" alt="...">
-                                    <p class="text-dark mt-2">Muthia Maylafayza</p>
+                                    <img src="sources/bph/.png" class="rounded" alt="...">
+                                    <p class="text-dark mt-2">Putri Afifah Khairunnisa</p>
                                     <p class="text-center" style="color: #fb6f92;">Wakil Bendahara Umum</p>
                                 </div>
                             </div>

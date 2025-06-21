@@ -17,7 +17,7 @@
                         <img src="sources/logomi.png" width="50px" alt="">    
                     </li>
                     <li class="nav-item">
-                        <img src="sources/logokabinetcaksabhigana.png" width="50px" alt="">
+                        <img src="sources/logokabinetkharsadikara.png" width="38px" alt="">
                     </li>
                 </ul>
                 <ul class="navbar-nav fw-bolder" >
