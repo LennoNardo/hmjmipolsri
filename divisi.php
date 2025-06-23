@@ -121,61 +121,61 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/KEMAS.png" class="image-fluid" alt="">
                 <p class="mt-4">Kemas Muhammad Amar Fauzan</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/M Bahrudin.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/BAHRUDIN.png" class="image-fluid" alt="">
                 <p class="mt-4">M. Bahrudin</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/BRILIANA.png" class="image-fluid" alt="">
                 <p class="mt-4">Briliana Azizah</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/FADLIL.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Fadlil</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/DIMAS.jpg" class="image-fluid" alt="">
                 <p class="mt-4">Dimas Yuda Pratama</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/NIKEN.png" class="image-fluid" alt="">
                 <p class="mt-4">Niken Septi Andini</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/INNAYAH.png" class="image-fluid" alt="">
                 <p class="mt-4">Innayah Dwikhailah Putri</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/IRHAM.png" class="image-fluid" alt="">
                 <p class="mt-4">Irham Bagus Sanjaya</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/DELVIA.png" class="image-fluid" alt="">
                 <p class="mt-4">Delvia Apriani</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/SATRIA.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Satria Anugrah</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/anonim.jpg" class="image-fluid" alt="">
                 <p class="mt-4">Rasya Ratu Juanna</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>     

@@ -126,51 +126,51 @@
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/giffari.png" class="image-fluid" alt="">
+                <img src="sources/psdm/HAEKAL.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Haekal Saleh</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/npoal.png" class="image-fluid" alt="">
+                <img src="sources/psdm/FATHIR.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Fathir Romeo</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/nanda.png" style="margin-top:5px;" class="image-fluid" alt="">
+                <img src="sources/psdm/anonym.png" style="margin-top:5px;" class="image-fluid" alt="">
                 <p class="mt-4">Shafia Aurajannah Marza</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/psdm/liza.png" class="image-fluid" alt="">
+                <img src="sources/psdm/RENJIRO.png" class="image-fluid" alt="">
                 <p class="mt-4">Renjiro Alief Daniswara</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/ridho.png" class="image-fluid" alt="">
+                <img src="sources/psdm/FIKA.png" class="image-fluid" alt="">
                 <p class="mt-4">Fika Dwi Jayanti</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/.png" class="image-fluid" alt="">
+                <img src="sources/psdm/NURIN.png" class="image-fluid" alt="">
                 <p class="mt-4">Nurin Nabya</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/ayu.png" class="image-fluid" alt="">
+                <img src="sources/psdm/KAYLA.png" class="image-fluid" alt="">
                 <p class="mt-4">Kayla Syakirah</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/psdm/yoga.png" class="image-fluid" alt="">
+                <img src="sources/psdm/FAIZAL.png" class="image-fluid" alt="">
                 <p class="mt-4">M. Faizal Alfriandy</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/yoga.png" class="image-fluid" alt="">
+                <img src="sources/psdm/RIDHO_P.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Ridho Pratama</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
