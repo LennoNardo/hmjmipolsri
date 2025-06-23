@@ -60,7 +60,7 @@
         <h4 class="text-center text-dark banner-text p-2 w-50 mb-5 mt-5 ">STRUKTURAL DIVISI PTKP</h4>
         <div class="row justify-content-center" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/ptkp/Fajri.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/AL FAJRI NUR RAMADHAN.png" class="image-fluid" alt="">
                 <p class="mt-4">Al Fajri Nur Ramadhan</p>
                 <p style="color: #fb6f92;">Koordinator</p>
             </div>
@@ -74,7 +74,7 @@
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/ptkp/Shofi.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/SHOFI NANDA R.png" class="image-fluid" alt="">
                 <p class="mt-4">Shofi Nanda Rismaliani</p>
                 <p style="color: #fb6f92;">Sekretaris</p>
             </div>
@@ -87,12 +87,12 @@
         </div>
         <div class="row justify-content-evenly mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/ptkp/Lenno.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/LENNO NARDO-.png" class="image-fluid" alt="">
                 <p class="mt-4">Lenno Nardo</p>
                 <p style="color: #fb6f92;">Koordinator Kurikulum</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/ptkp/Ichwan.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/M.ICWHAN.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Ichwan</p>
                 <p style="color: #fb6f92;">Koordinator Kepemudaan</p>
             </div>
@@ -104,12 +104,12 @@
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/Irfan.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/M.IRFAN APRIANSYAH.png" class="image-fluid" alt="">
                 <p class="mt-4">M. Irfan Apriansyah</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/Miftah.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/MIFTAHUL JANNAH-.png" class="image-fluid" alt="">
                 <p class="mt-4">Miftahul Jannah</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
@@ -121,12 +121,12 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/KEMAS MUHAMMAD AMAR FAUZAN.png" class="image-fluid" alt="">
                 <p class="mt-4">Kemas Muhammad Amar Fauzan</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/M Bahrudin.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/M. Bahrudin.png" class="image-fluid" alt="">
                 <p class="mt-4">M. Bahrudin</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
@@ -136,7 +136,7 @@
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/MUHAMMAD FADLIL.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Fadlil</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>

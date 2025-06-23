@@ -60,26 +60,26 @@
         <h4 class="text-center text-dark banner-text p-2 w-50 mb-5 mt-5 ">STRUKTURAL DIVISI PSDM</h4>
         <div class="row justify-content-center" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/psdm/M.NAUFAL ATHALLAH.png" class="image-fluid" alt="">
+                <img src="sources/psdm/M.NAUFAL.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Naufal Athallah</p>
                 <p style="color: #fb6f92;">Koordinator</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/psdm/AULIA NIPUTRI.png" class="image-fluid" alt="">
+                <img src="sources/psdm/AULIA.png" class="image-fluid" alt="">
                 <p class="mt-4">Aulia Niputri</p>
                 <p style="color: #fb6f92;">Wakil Koordinator</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/psdm/SRI RAHAYU REZEKI.png" class="image-fluid" alt="">
+                <img src="sources/psdm/SRI RAHAYU.png" class="image-fluid" alt="">
                 <p class="mt-4">Sri Rahayu Rezeki</p>
                 <p style="color: #fb6f92;">Sekretaris</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/psdm/SHOOFIYAH MAHARANI.png" class="image-fluid" alt="">
+                <img src="sources/psdm/SHOOFIYAH.png" class="image-fluid" alt="">
                 <p class="mt-4">Shoofiyah Maharani</p>
                 <p style="color: #fb6f92;">Bendahara</p>
             </div>
@@ -87,7 +87,7 @@
         </div>
         <div class="row justify-content-evenly mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/psdm/HANDIKA PUTRA.png" class="image-fluid" alt="">
+                <img src="sources/psdm/HANDIKA.png" class="image-fluid" alt="">
                 <p class="mt-4">Handika Putra</p>
                 <p style="color: #fb6f92;">Koordinator Minat Bakat </p>
             </div>
@@ -99,34 +99,34 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/psdm/SWARNATA PRAYOGA.png" class="image-fluid" alt="">
+                <img src="sources/psdm/SWARNATA.png" class="image-fluid" alt="">
                 <p class="mt-4">Swarnata Prayoga</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/NURHALIZA.png" class="image-fluid" alt="">
+                <img src="sources/psdm/HALIZA.png" class="image-fluid" alt="">
                 <p class="mt-4">Nurhaliza</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/NANDA MELYANI PUTRI.png" class="image-fluid" alt="">
+                <img src="sources/psdm/NANDA MELYANI.png" class="image-fluid" alt="">
                 <p class="mt-4">Nanda Meylani Putri</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/LULUK ANGGRAINI.png"class="image-fluid" alt="">
+                <img src="sources/psdm/LULUK.png"class="image-fluid" alt="">
                 <p class="mt-4">Luluk Anggraini</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/psdm/Ridho Dwi Restiandi.png" style="margin-top:10px;" class="image-fluid" alt="">
+                <img src="sources/psdm/RIDHO DWI.png" style="margin-top:10px;" class="image-fluid" alt="">
                 <p class="mt-4">Ridho Dwi Restiandi</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/psdm/giffari.png" class="image-fluid" alt="">
+                <img src="sources/psdm/.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Haekal Saleh</p>
                 <p style="color: #fb6f92;">Anggota Minat Bakat</p>
             </div>

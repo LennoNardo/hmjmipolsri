@@ -124,7 +124,7 @@
                             </div>
                             <div class="carousel-item bg-transparent px-2 text-center">
                                 <div class="p-2 caro-img">
-                                    <img src="sources/bph/singnap.png" class="rounded" alt="...">
+                                    <img src="sources/bph/EKA RAHAYU PUTRI .png" class="rounded" alt="...">
                                     <p class="text-dark mt-2">Eka Rahayu Putri</p>
                                     <p class="text-center " style="color: #fb6f92;">Wakil Sekretaris Umum</p>
                                 </div>
@@ -138,7 +138,7 @@
                             </div>
                             <div class="carousel-item bg-transparent px-2 text-center">
                                 <div class="p-2 caro-img">
-                                    <img src="sources/bph/.png" class="rounded" alt="...">
+                                    <img src="sources/bph/PUTRI AFIFAH KHAIRUNNISA.png" class="rounded" alt="...">
                                     <p class="text-dark mt-2">Putri Afifah Khairunnisa</p>
                                     <p class="text-center" style="color: #fb6f92;">Wakil Bendahara Umum</p>
                                 </div>

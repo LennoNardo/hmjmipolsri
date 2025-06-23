@@ -55,7 +55,7 @@
             </div>
             <div class="col-sm-5 col-10 mt-5 box rounded-3 text-center p-3" data-aos="fade-left" data-aos-delay="150" data-aos-duration="900">
                 <img src="sources/humas/jurnalis.png" class="image-fluid w-25" alt="">
-                <p class="text-center fs-sm-3 sub-font mt-3">Komunikasi dan Informasi</p>
+                <p class="text-center fs-sm-3 sub-font mt-3">Jurnalistik</p>
                 <hr class="home-line">
                 <p class="justify text-dark mt-3 p-3 sub-para">&nbsp Divisi Jurnalistik adalah pilar utama dalam penyediaan informasi yang akurat dan terpercaya. Divisi ini bertanggung jawab penuh atas seluruh proses jurnalistik, mulai dari peliputan acara, melakukan wawancara, hingga riset mendalam. Semua informasi yang terkumpul diolah dan disajikan secara objektif dalam bentuk berita, artikel feature, maupun tulisan inspiratif. Tujuannya adalah untuk memastikan seluruh lingkungan Jurusan Manajemen Informatika mendapatkan informasi yang kredibel dan beretika.</p>
             </div>
@@ -66,26 +66,26 @@
         <h4 class="text-center text-dark banner-text p-2 w-50 mb-5 mt-5 ">STRUKTURAL DIVISI HUMAS</h4>
         <div class="row justify-content-center" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/humas/MASYA DINAR FADILLAH.png" class="image-fluid" alt="">
+                <img src="sources/humas/MASYA DINAR.png" class="image-fluid" alt="">
                 <p class="mt-4">Masya Dinar Fadillah</p>
                 <p style="color: #fb6f92;">Koordinator</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/humas/M.RIFKY SEPTIANSYAH.png" class="image-fluid" alt="">
+                <img src="sources/humas/M. RIFKI SEPTIANSYAH.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhamad Rifky Septiansyah</p>
                 <p style="color: #fb6f92;">Wakil Koordinator</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/humas/PANISAH.png" class="image-fluid" alt="">
+                <img src="sources/humas/panisa.png" class="image-fluid" alt="">
                 <p class="mt-4">Panisah</p>
                 <p style="color: #fb6f92;">Sekretaris</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/humas/AJENG ALIEFFIYAH SAFITRI.png" class="image-fluid" alt="">
+                <img src="sources/humas/AJENG.png" class="image-fluid" alt="">
                 <p class="mt-4">Ajeng Alieffiyah Safitri</p>
                 <p style="color: #fb6f92;">Bendahara</p>
             </div>
@@ -93,39 +93,39 @@
         </div>
         <div class="row justify-content-evenly mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/humas/VANESSA SEPTIA PUTRI.png" class="image-fluid" alt="">
+                <img src="sources/humas/VANESSA.png" class="image-fluid" alt="">
                 <p class="mt-4">Vanessa Septia Putri</p>
                 <p style="color: #fb6f92;">Koordinator Kominfo</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/humas/ZAKIRA SURANI.png" class="image-fluid" alt="">
+                <img src="sources/humas/ZAKIRA.png" class="image-fluid" alt="">
                 <p class="mt-4">Zakira Surani</p>
                 <p style="color: #fb6f92;">Koordinator Medkraf</p>
             </div>
             <div class="col-4 text-center">
-                <img src="sources/humas/NAILAH ZHAFIRAH CAHYALIA JAYA.png" class="image-fluid" alt="">
+                <img src="sources/humas/NAILAH.png" class="image-fluid" alt="">
                 <p class="mt-4">Nailah Zhafirah Cahyalia Jaya</p>
                 <p style="color: #fb6f92;">Koordinator Jurnalis</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
         <div class="col-3 text-center">
-                <img src="sources/humas/ARIEN SALSABILLA BASURINI.png" class="image-fluid" alt="">
+                <img src="sources/humas/ARIEN.png" class="image-fluid" alt="">
                 <p class="mt-4">Arien Salsabila Basurini</p>
                 <p style="color: #fb6f92;">Anggota Kominfo</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/NADI KURNIAWAN.png" class="image-fluid" alt="">
-                <p class="mt-4">ANadi Kurniawan</p>
+                <img src="sources/humas/NADI.png" class="image-fluid" alt="">
+                <p class="mt-4">Nadi Kurniawan</p>
                 <p style="color: #fb6f92;">Anggota Kominfo</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/M.DANDI FIRJATULLAH.png" class="image-fluid" alt="">
+                <img src="sources/humas/M.DANDI.png" class="image-fluid" alt="">
                 <p class="mt-4">M. Dandi Firjatullah</p>
                 <p style="color: #fb6f92;">Anggota Medkraf</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/REGAS SONJAYA.png" class="image-fluid" alt="">
+                <img src="sources/humas/REGAS.png" class="image-fluid" alt="">
                 <p class="mt-4">Regas Sonjaya</p>
                 <p style="color: #fb6f92;">Anggota Jurnalis</p>
             </div>
