@@ -87,7 +87,7 @@
         </div>
         <div class="row justify-content-evenly mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/ptkp/LENNO NARDO-.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/leno.png" class="image-fluid" alt="">
                 <p class="mt-4">Lenno Nardo</p>
                 <p style="color: #fb6f92;">Koordinator Kurikulum</p>
             </div>
@@ -131,7 +131,7 @@
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/BRILIANA AZIZAH.png" class="image-fluid" alt="">
                 <p class="mt-4">Briliana Azizah</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
@@ -143,39 +143,39 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/DIMAS YUDA PRATAMA.png" class="image-fluid" alt="">
                 <p class="mt-4">Dimas Yuda Pratama</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/NIKEN SEPTIA ANDINI .png" class="image-fluid" alt="">
                 <p class="mt-4">Niken Septi Andini</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/INNAYAH DWIKHAILA PUTRI.png" class="image-fluid" alt="">
                 <p class="mt-4">Innayah Dwikhailah Putri</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/IRHAM BAGUS SANJAYA.png" class="image-fluid" alt="">
                 <p class="mt-4">Irham Bagus Sanjaya</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/DELVIA APRIANI.png" class="image-fluid" alt="">
                 <p class="mt-4">Delvia Apriani</p>
                 <p style="color: #fb6f92;">Anggota Kurikulum</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/MUHAMAD SATRIA ANUGRAH .png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Satria Anugrah</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/.png" class="image-fluid" alt="">
+                <img src="sources/anonim.jpg" class="image-fluid" alt="">
                 <p class="mt-4">Rasya Ratu Juanna</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>     

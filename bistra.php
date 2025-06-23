@@ -121,44 +121,44 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <img src="sources/bistra/MUNZILIN.png" class="image-fluid" alt="">
                 <p class="mt-4">Munzillin Zahri Aji</p>
                 <p style="color: #fb6f92;">Anggota Bisnis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <img src="sources/bistra/AZRIN.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Azrin</p>
                 <p style="color: #fb6f92;">Anggota Bisnis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <img src="sources/bistra/AFIFA.png" class="image-fluid" alt="">
                 <p class="mt-4">Afifah Saharani</p>
                 <p style="color: #fb6f92;">Anggota Kemitraan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <img src="sources/bistra/FENITA.png" class="image-fluid" alt="">
                 <p class="mt-4">Fenita Harlina</p>
                 <p style="color: #fb6f92;">Anggota Kemitraan</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <img src="sources/bistra/ALFARIS.png" class="image-fluid" alt="">
                 <p class="mt-4">Alfaris Abiyyu Ramadhan</p>
                 <p style="color: #fb6f92;">Anggota Bisnis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <img src="sources/bistra/FADHLAN.png" class="image-fluid" alt="">
                 <p class="mt-4">Fadhlan Lordiansyah</p>
                 <p style="color: #fb6f92;">Anggota Bisnis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <img src="sources/bistra/AYUU.png" class="image-fluid" alt="">
                 <p class="mt-4">Ayu Sari Romadhon</p>
                 <p style="color: #fb6f92;">Anggota Kemitraan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/bistra/.png" class="image-fluid" alt="">
+                <img src="sources/bistra/NABILA.png" class="image-fluid" alt="">
                 <p class="mt-4">Nabila Salsabila</p>
                 <p style="color: #fb6f92;">Anggota Kemitraan</p>
             </div>

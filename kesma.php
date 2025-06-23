@@ -104,7 +104,7 @@
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/anisaa.png" class="image-fluid" alt="">
+                <img src="sources/kesma/GHANI.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Ghani Yusha</p>
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
@@ -121,12 +121,12 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/kesma/riqzon.png" class="image-fluid" alt="">
+                <img src="sources/kesma/RIZKY.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Rizky Pratama</p>
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/sutan.png" class="image-fluid" alt="">
+                <img src="sources/kesma/NABILA.png" class="image-fluid" alt="">
                 <p class="mt-4">Nabila Huwaida</p>
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
@@ -143,29 +143,29 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/kesma/widyaa.png" class="image-fluid" alt="">
+                <img src="sources/kesma/RIZKY_W.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Rizky Wijaya</p>
                 <p style="color: #fb6f92;">Anggota Agama</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/zalsabila.png" class="image-fluid" alt="">
+                <img src="sources/kesma/ADINDA.png" class="image-fluid" alt="">
                 <p class="mt-4">Adinda Rahmalia</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/.png" class="image-fluid" alt="">
+                <img src="sources/kesma/AMIRA.png" class="image-fluid" alt="">
                 <p class="mt-4">Amira Luthfia Alkamila</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/kesma/dhika.png" class="image-fluid" alt="">
+                <img src="sources/kesma/FRANS.png" class="image-fluid" alt="">
                 <p class="mt-4">Frans Ahmad Zharif</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/kesma/risha.png" class="image-fluid" alt="">
+                <img src="sources/kesma/RASYA.png" class="image-fluid" alt="">
                 <p class="mt-4">Rasya Syakir</p>
                 <p style="color: #fb6f92;">Anggota Sosial</p>
             </div>

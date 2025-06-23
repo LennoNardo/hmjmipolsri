@@ -132,44 +132,44 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/humas/.png" class="image-fluid" alt="">
+                <img src="sources/humas/Fajar Setyanusa.png" class="image-fluid" alt="">
                 <p class="mt-4">Fajar Setyanusa</p>
                 <p style="color: #fb6f92;">Anggota kominfo</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/claraa.png" class="image-fluid" alt="">
+                <img src="sources/humas/Nafi Julian Syam Fajri.png" class="image-fluid" alt="">
                 <p class="mt-4">Nafi Julian Syam Fajri</p>
                 <p style="color: #fb6f92;">Anggota Kominfo</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/jasurr.png" class="image-fluid" alt="">
+                <img src="sources/humas/NABIL.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Nabil Fadhilah</p>
                 <p style="color: #fb6f92;">Anggota Medkraf</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/.png" class="image-fluid" alt="">
+                <img src="sources/humas/FINOLIA.png" class="image-fluid" alt="">
                 <p class="mt-4">Finolia Rama Danti</p>
                 <p style="color: #fb6f92;">Anggota Medkraf</p>
             </div>
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/humas/.png" class="image-fluid" alt="">
+                <img src="sources/humas/DIANA.png" class="image-fluid" alt="">
                 <p class="mt-4">Diana Mareta</p>
                 <p style="color: #fb6f92;">Anggota Kominfo</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/nanda_tira.png" class="image-fluid" alt="">
+                <img src="sources/humas/ANGGUN.png" class="image-fluid" alt="">
                 <p class="mt-4">Anggun Ayu Tria Rahmah</p>
                 <p style="color: #fb6f92;">Anggota Kominfo</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/mashaa.png" class="image-fluid" alt="">
+                <img src="sources/humas/NURIL.png" class="image-fluid" alt="">
                 <p class="mt-4">Nuril Maghfiroh</p>
                 <p style="color: #fb6f92;">Anggota Medkraf</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/rifky.png" class="image-fluid" alt="">
+                <img src="sources/humas/helza framesha.png" class="image-fluid" alt="">
                 <p class="mt-4">Helza Framesha</p>
                 <p style="color: #fb6f92;">Anggota Medkraf</p>
             </div> 
@@ -177,22 +177,22 @@
             
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
              <div class="col-3 text-center">
-                <img src="sources/humas/.png" class="image-fluid" alt="">
+                <img src="sources/humas/THOMAS.png" class="image-fluid" alt="">
                 <p class="mt-4">Thomas Kristalio Ariflan Santos</p>
                 <p style="color: #fb6f92;">Anggota Medkraf</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/satria.png" class="image-fluid" alt="">
+                <img src="sources/humas/anonym.png" class="image-fluid" alt="">
                 <p class="mt-4">Sulthan Muhammad Diftha Annashira</p>
                 <p style="color: #fb6f92;">Anggota Jurnalis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/nai.png" class="image-fluid" alt="">
+                <img src="sources/humas/ARAU.png" class="image-fluid" alt="">
                 <p class="mt-4">Arau Imanuel Siritoitet</p>
                 <p style="color: #fb6f92;">Anggota Jurnalis</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/humas/pani.png" class="image-fluid" alt="">
+                <img src="sources/humas/KEVIN.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Kevin Fadhilah Akmal</p>
                 <p style="color: #fb6f92;">Anggota Jurnalis</p>
             </div>
