@@ -43,7 +43,7 @@
         <div class="row justify-content-evenly" data-aos="fade-right" data-aos-delay="150" data-aos-duration="900">
             <div class="col-sm-5 col-10 mt-5 box rounded-3 text-center p-3">
                 <img src="sources/humas/medin_humas.png" class="image-fluid w-25" alt="">
-                <p class="text-center fs-sm-3 sub-font mt-3">Media dan Informasi</p>
+                <p class="text-center fs-sm-3 sub-font mt-3">Media Kreatif</p>
                 <hr class="home-line">
                 <p class="justify text-dark mt-3 p-3 sub-para">&nbsp Media Kreatif (Medkraf) berperan sebagai pusat pengembangan konten visual dan narasi digital. Tanggung jawab utamanya meliputi eksekusi ide kreatif dalam bentuk desain grafis, videografi, fotografi, serta copywriting. Selain itu, divisi ini bertugas mengelola seluruh platform media sosial dan menjadi garda terdepan dalam menyebarluaskan informasi secara inovatif, khususnya untuk lingkungan Jurusan Manajemen Informatika.</p>
             </div>
@@ -68,14 +68,14 @@
             <div class="col-4 text-center">
                 <img src="sources/humas/MASYA DINAR.png" class="image-fluid" alt="">
                 <p class="mt-4">Masya Dinar Fadillah</p>
-                <p style="color: #fb6f92;">Koordinator</p>
+                <p style="color: #fb6f92;">Kepala Departemen</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
                 <img src="sources/humas/M. RIFKI SEPTIANSYAH.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhamad Rifky Septiansyah</p>
-                <p style="color: #fb6f92;">Wakil Koordinator</p>
+                <p style="color: #fb6f92;">Wakil Kepala Departemen</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
@@ -93,13 +93,13 @@
         </div>
         <div class="row justify-content-evenly mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
-                <img src="sources/humas/VANESSA.png" class="image-fluid" alt="">
-                <p class="mt-4">Vanessa Septia Putri</p>
-                <p style="color: #fb6f92;">Koordinator Kominfo</p>
-            </div>
-            <div class="col-4 text-center">
                 <img src="sources/humas/ZAKIRA.png" class="image-fluid" alt="">
                 <p class="mt-4">Zakira Surani</p>
+                <p style="color: #fb6f92;">Koordinator Kominfo</p>
+            </div>    
+            <div class="col-4 text-center">
+                <img src="sources/humas/VANESSA.png" class="image-fluid" alt="">
+                <p class="mt-4">Vanessa Septia Putri</p>
                 <p style="color: #fb6f92;">Koordinator Medkraf</p>
             </div>
             <div class="col-4 text-center">

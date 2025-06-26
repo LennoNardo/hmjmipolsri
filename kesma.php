@@ -62,14 +62,14 @@
             <div class="col-4 text-center">
                 <img src="sources/kesma/M.RIZQON YASIR.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhamad Rizqon Yasir</p>
-                <p style="color: #fb6f92;">Koordinator</p>
+                <p style="color: #fb6f92;">Kepala Departemen</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
                 <img src="sources/kesma/ZALSABILA HERAWATY.png" class="image-fluid" alt="">
                 <p class="mt-4">Zalsabila Herawaty</p>
-                <p style="color: #fb6f92;">Wakil Koordinator</p>
+                <p style="color: #fb6f92;">Wakil Kepala Departemen</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">

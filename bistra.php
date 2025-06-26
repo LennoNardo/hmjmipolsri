@@ -62,14 +62,14 @@
             <div class="col-4 text-center">
                 <img src="sources/bistra/RAECHAN ALBANI.png" class="image-fluid" alt="">
                 <p class="mt-4">Mochamad Raechan Albani</p>
-                <p style="color: #fb6f92;">Koordinator</p>
+                <p style="color: #fb6f92;">Kepala Departemen</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
                 <img src="sources/bistra/RAHMI FAULIZA HANAPSARI.png" class="image-fluid" alt="">
                 <p class="mt-4">Rahmi Fauliza Hanapsari</p>
-                <p style="color: #fb6f92;">Wakil Koordinator</p>
+                <p style="color: #fb6f92;">Wakil Kepala Departemen</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">

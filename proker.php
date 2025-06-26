@@ -45,7 +45,7 @@
                         IT tahunan. Dengan rangkaian acara kompetisi, pelatihan, dan seminar sebagai ajang edukatif bagi mahasiswa, 
                         mahasiswa maupun masyarakat umum dalam meningkatkan kreativitas kesadaran tentang pentingnya penggunaan teknologi informasi
                         dalam era globalisasi.
-                        <a class="links" style="margin-top: -20px;" href="https://itfestivalpolsri.com/">Info Selengkapnya...</a>
+                        <a class="links" style="margin-top: -20px;" href="https://www.instagram.com/itfestpolsri/">Info Selengkapnya...</a>
                 </p>
                 </div>
                 <div class="col-10 col-sm-5 image m-auto">

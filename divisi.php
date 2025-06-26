@@ -62,14 +62,14 @@
             <div class="col-4 text-center">
                 <img src="sources/ptkp/AL FAJRI NUR RAMADHAN.png" class="image-fluid" alt="">
                 <p class="mt-4">Al Fajri Nur Ramadhan</p>
-                <p style="color: #fb6f92;">Koordinator</p>
+                <p style="color: #fb6f92;">Kepala Departemen</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
                 <img src="sources/ptkp/AGNES.png" class="image-fluid" alt="">
                 <p class="mt-4">Agnes</p>
-                <p style="color: #fb6f92;">Wakil Koordinator</p>
+                <p style="color: #fb6f92;">Wakil Kepala Departemen</p>
             </div>
         </div>
         <div class="row justify-content-center mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
@@ -89,7 +89,7 @@
             <div class="col-4 text-center">
                 <img src="sources/ptkp/leno.png" class="image-fluid" alt="">
                 <p class="mt-4">Lenno Nardo</p>
-                <p style="color: #fb6f92;">Koordinator Kurikulum</p>
+                <p style="color: #fb6f92;">Koordinator Akademik</p>
             </div>
             <div class="col-4 text-center">
                 <img src="sources/ptkp/M.ICWHAN.png" class="image-fluid" alt="">
@@ -101,12 +101,12 @@
             <div class="col-3 text-center">
                 <img src="sources/ptkp/devi.png" class="image-fluid" alt="">
                 <p class="mt-4">Devi Aprianti</p>
-                <p style="color: #fb6f92;">Anggota Kurikulum</p>
+                <p style="color: #fb6f92;">Anggota Akademik</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/ptkp/M.IRFAN APRIANSYAH.png" class="image-fluid" alt="">
                 <p class="mt-4">M. Irfan Apriansyah</p>
-                <p style="color: #fb6f92;">Anggota Kurikulum</p>
+                <p style="color: #fb6f92;">Anggota Akademik</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/ptkp/MIFTAHUL JANNAH-.png" class="image-fluid" alt="">
@@ -123,15 +123,15 @@
             <div class="col-3 text-center">
                 <img src="sources/ptkp/KEMAS MUHAMMAD AMAR FAUZAN.png" class="image-fluid" alt="">
                 <p class="mt-4">Kemas Muhammad Amar Fauzan</p>
-                <p style="color: #fb6f92;">Anggota Kurikulum</p>
+                <p style="color: #fb6f92;">Anggota Akademik</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/ptkp/M. Bahrudin.png" class="image-fluid" alt="">
                 <p class="mt-4">M. Bahrudin</p>
-                <p style="color: #fb6f92;">Anggota Kurikulum</p>
+                <p style="color: #fb6f92;">Anggota Akademik</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/BRILIANA AZIZAH.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/BRILIANA.png" class="image-fluid" alt="">
                 <p class="mt-4">Briliana Azizah</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
@@ -145,12 +145,12 @@
             <div class="col-3 text-center">
                 <img src="sources/ptkp/DIMAS YUDA PRATAMA.png" class="image-fluid" alt="">
                 <p class="mt-4">Dimas Yuda Pratama</p>
-                <p style="color: #fb6f92;">Anggota Kurikulum</p>
+                <p style="color: #fb6f92;">Anggota Akademik</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/ptkp/NIKEN SEPTIA ANDINI .png" class="image-fluid" alt="">
                 <p class="mt-4">Niken Septi Andini</p>
-                <p style="color: #fb6f92;">Anggota Kurikulum</p>
+                <p style="color: #fb6f92;">Anggota Akademik</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/ptkp/INNAYAH DWIKHAILA PUTRI.png" class="image-fluid" alt="">
@@ -167,7 +167,7 @@
             <div class="col-3 text-center">
                 <img src="sources/ptkp/DELVIA APRIANI.png" class="image-fluid" alt="">
                 <p class="mt-4">Delvia Apriani</p>
-                <p style="color: #fb6f92;">Anggota Kurikulum</p>
+                <p style="color: #fb6f92;">Anggota Akademik</p>
             </div>
             <div class="col-3 text-center">
                 <img src="sources/ptkp/MUHAMAD SATRIA ANUGRAH .png" class="image-fluid" alt="">
