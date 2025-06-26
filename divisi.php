@@ -143,7 +143,7 @@
         </div>
         <div class="row justify-content-between mt-sm-5 mt-2 px-4" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-3 text-center">
-                <img src="sources/ptkp/DIMAS YUDA PRATAMA.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/DIMAS YUDA.png" class="image-fluid" alt="">
                 <p class="mt-4">Dimas Yuda Pratama</p>
                 <p style="color: #fb6f92;">Anggota Akademik</p>
             </div>
