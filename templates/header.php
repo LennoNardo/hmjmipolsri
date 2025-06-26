@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="stylesheet" href="styles/style2.css">
     <link rel="stylesheet" href="styles/style.css">
-    <title>HMJ Majamemen Informatika</title>
+    <title>HMJ Manajemen Informatika</title>
 
     <style>  
     #sosmed-icon{

@@ -136,7 +136,7 @@
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
             <div class="col-3 text-center">
-                <img src="sources/ptkp/MUHAMMAD FADLIL.png" class="image-fluid" alt="">
+                <img src="sources/ptkp/FADLIL.png" class="image-fluid" alt="">
                 <p class="mt-4">Muhammad Fadlil</p>
                 <p style="color: #fb6f92;">Anggota Kepemudaan</p>
             </div>
