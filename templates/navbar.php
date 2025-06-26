@@ -25,7 +25,7 @@
                         <a class="nav-link" href="index">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="divisi">Division</a>
+                        <a class="nav-link" href="divisi">Departement</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="proker">Event</a>

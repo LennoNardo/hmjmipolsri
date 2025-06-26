@@ -39,7 +39,7 @@
     </div>
 
     <div class="mt-5 pt-5 subdiv-ptkp mb-5" data-aos="fade-up" data-aos-delay="250" data-aos-duration="600">
-        <h4 class="text-center text-dark banner-text p-2 w-50">SUBDIVISI PTKP</h4>
+        <h4 class="text-center text-dark banner-text p-2 w-50">DIVISI PTKP</h4>
         <div class="row justify-content-evenly" data-aos="fade-right " data-aos-delay="150" data-aos-duration="900">
             <div class="col-sm-5 col-10 mt-5 box rounded-3 text-center p-3">
                 <img src="sources/ptkp/aspirasi.png" class="image-fluid w-25" alt="">
@@ -49,7 +49,7 @@
             </div>
             <div class="col-sm-5 col-10 mt-5 box rounded-3 text-center p-3" data-aos="fade-left" data-aos-delay="150" data-aos-duration="900">
                 <img src="sources/ptkp/akademik.png" class="image-fluid w-25" alt="">
-                <p class="text-center fs-sm-3 sub-font mt-3">Kurikulum</p>
+                <p class="text-center fs-sm-3 sub-font mt-3">Akademik</p>
                 <hr class="home-line">
                 <p class="justify text-dark mt-3 p-3 sub-para">&nbsp Mengkoordinir sumber daya mahasiswa dibidang akademik guna mewujudkan mahasiswa yang cerdas dan aktif</p>
             </div>
@@ -57,7 +57,7 @@
     </div>
 
     <div class="struktural mt-5 pt-5 mb-5 pb-5">
-        <h4 class="text-center text-dark banner-text p-2 w-50 mb-5 mt-5 ">STRUKTURAL DIVISI PTKP</h4>
+        <h4 class="text-center text-dark banner-text p-2 w-50 mb-5 mt-5 ">STRUKTURAL DEPARTEMEN PTKP</h4>
         <div class="row justify-content-center" data-aos-delay="50" data-aos-duration="500" data-aos="fade-up">
             <div class="col-4 text-center">
                 <img src="sources/ptkp/AL FAJRI NUR RAMADHAN.png" class="image-fluid" alt="">

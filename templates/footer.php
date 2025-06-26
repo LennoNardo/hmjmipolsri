@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="col-12 col-sm-2">
-                <p class="fw-bolder fs-6">Address</p>
+                <p class="fw-bolder fs-6 ">Address</p>
                 <p>Gedung Kuliah VII Sungai Sahang Lt. 2</p>
                 <p>Jurusan Manajemen Informatika</p>
                 <p>Politeknik Negeri Sriwijaya</p>
@@ -22,7 +22,7 @@
                 <div class="d-flex flex-column links">
                     <a href="index">Home</a>
                     <a href="index#profile">Profile</a>
-                    <a href="divisi">Division</a>
+                    <a href="divisi">Departemen</a>
                 </div>
             </div>
             <div class="col-12 col-sm-2">
