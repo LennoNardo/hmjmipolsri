@@ -42,7 +42,7 @@
         <h4 class="text-center text-dark banner-text p-2 w-50">DIVISI PSDM</h4>
         <div class="row justify-content-evenly" data-aos="fade-right" data-aos-delay="150" data-aos-duration="900">
             <div class="col-sm-5 col-10 mt-5 box rounded-3 text-center p-3">
-                <img src="sources/psdm/minatbakat_psdm.png" class="image-fluid w-25" alt="">
+                <img src="sources/psdm/minatbakat_psdm1.png" class="image-fluid w-25" alt="">
                 <p class="text-center fs-sm-3 sub-font mt-3">Minat Bakat</p>
                 <hr class="home-line">
                 <p class="justify text-dark mt-3 p-3 sub-para">&nbsp Minat Bakat berfungsi mendata serta menyalurkan artis dan atlet yang berpotensi di Jurusan Manajemen Informatika.</p>

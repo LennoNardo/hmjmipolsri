@@ -48,7 +48,7 @@
                 <p class="justify text-dark mt-3 p-3 sub-para">&nbsp Agama merupakan subdivisi yang bergerak dalam hal keagamaan dan bertujuan untuk meningkatkan sisi religius mahasiswa Manajemen Informatika.</p>
             </div>
             <div class="col-sm-5 col-10 mt-5 box rounded-3 text-center p-3" data-aos="fade-left" data-aos-delay="150" data-aos-duration="900">
-                <img src="sources/kesma/sosial_kesma.png" class="image-fluid w-25" alt="">
+                <img src="sources/kesma/sosial_kesma1.png" class="image-fluid w-25" alt="">
                 <p class="text-center fs-sm-3 sub-font mt-3">Sosial</p>
                 <hr class="home-line">
                 <p class="justify text-dark mt-3 p-3 sub-para">Sosial merupakan subdivisi yang bergerak dalam hal sosial untuk meningkatkan kesejahteraan dan kepedulian mahasiswa Manajemen Informatika.</p>
